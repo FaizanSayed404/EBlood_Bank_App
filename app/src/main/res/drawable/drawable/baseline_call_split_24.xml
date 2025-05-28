@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Black square background -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M0,0 L24,0 L24,24 L0,24 Z" />
+
+    <!-- Map icon in white - scaled down by translating and scaling -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M18.5,5L18.34,5.03L14,6.6L9,5L4.36,6.4C4.15,6.47 4,6.65 4,6.88V18.5C4,18.78 4.22,19 4.5,19L4.66,18.97L9,17.4L14,19L18.64,17.6C18.85,17.53 19,17.35 19,17.12V5.5C19,5.22 18.78,5 18.5,5ZM14,17L9,15.39V7L14,8.61V17Z" />
+
+</vector>

@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Black Background -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M0,0h200v200h-200z" />
+
+    <!-- White "H" Icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,50v100h20v-40h40v40h20V50h-20v40h-40V50h-20z" />
+</vector>

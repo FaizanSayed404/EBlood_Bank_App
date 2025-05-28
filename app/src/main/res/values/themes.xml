@@ -1,0 +1,33 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EBlood_Bank_App" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="materialAlertDialogTheme"></item>
+    </style>
+
+    <style name="Theme.EBlood_Bank_App" parent="Base.Theme.EBlood_Bank_App" />
+
+    <style name="CustomToolbarTitle" parent="TextAppearance.Material3.TitleLarge">
+        <item name="android:textSize">30sp</item> <!-- Change size here -->
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="TextAppearance.Collapsed" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.Expanded" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">40sp</item>
+    </style>
+
+    <style name="MaterialAlertTheme" parent="ThemeOverlay.Material3.MaterialAlertDialog">
+        <item name="cornerSize">0dp</item>
+        <item name="dialogCornerRadius">0dp</item>
+    </style>
+
+</resources>

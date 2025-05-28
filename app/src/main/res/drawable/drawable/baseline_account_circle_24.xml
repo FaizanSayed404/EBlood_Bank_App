@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Black Background -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M0,0h200v200h-200z" />
+
+    <!-- White User Profile Icon (Smaller and Refined) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M100,36
+          a30,30 0 1,0 0,60
+          a30,30 0 1,0 0,-60z" /> <!-- Head Circle (Smaller) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,100
+          h60
+          c8,0 15,7 15,15
+          v25
+          c0,8 -7,15 -15,15
+          h-60
+          c-8,0 -15,-7 -15,-15
+          v-25
+          c0,-8 7,-15 15,-15
+          z" /> <!-- Body Rounded Rectangle (Smaller and Refined Corners) -->
+</vector>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context=".SplashActivity"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@color/background">
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_gravity="center"
+        app:cardBackgroundColor="@color/background"
+        app:strokeWidth="0dp"
+        app:strokeColor="@color/card_color"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/load_image"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/baseline_bloodtype_24"
+            app:tint="@color/card_color" />
+    </com.google.android.material.card.MaterialCardView>
+    <TextView
+        android:layout_marginTop="15dp"
+        android:textColor="@android:color/white"
+        android:textSize="48sp"
+        android:textStyle="bold"
+        android:text="Blood Bank"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:textSize="20sp"
+        android:textColor="#9B9A9A"
+        android:text="Donate Blood, Save Life"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

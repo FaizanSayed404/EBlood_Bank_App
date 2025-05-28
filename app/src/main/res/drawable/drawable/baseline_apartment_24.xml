@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Black square background -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M0,0 L24,0 L24,24 L0,24 Z" />
+
+    <!-- Water drop in white -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="0.5"
+        android:pathData="M12,4.5 C12,4.5 7,10.5 7,14.5 C7,17.537 9.239,20 12,20 C14.761,20 17,17.537 17,14.5 C17,10.5 12,4.5 12,4.5Z" />
+
+</vector>

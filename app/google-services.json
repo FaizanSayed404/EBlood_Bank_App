@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "358826844599",
+    "firebase_url": "https://e-blood-bank-807ed-default-rtdb.firebaseio.com",
+    "project_id": "e-blood-bank-807ed",
+    "storage_bucket": "e-blood-bank-807ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358826844599:android:934e505466269a920e4832",
+        "android_client_info": {
+          "package_name": "com.company.ebank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvkMZqeWkyg2AE7wmsGIh9H8dcJa07yQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358826844599:android:6e694c1d045d841c0e4832",
+        "android_client_info": {
+          "package_name": "com.example.e_blood_bank_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvkMZqeWkyg2AE7wmsGIh9H8dcJa07yQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
