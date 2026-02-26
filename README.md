@@ -38,6 +38,30 @@
 
 ---
 
+## 📸 App Screenshots
+Here is a look at the Smart Blood Bank interface:
+
+| Login Screen | Register Screen | Home Screen |
+| :---: | :---: | :---: |
+| <img src="Login.png" width="200"> | <img src="Register.png" width="200"> | <img src="Home.png" width="200"> |
+
+| Donor Search | Location Map | Hospital Portal |
+| :---: | :---: | :---: |
+| <img src="Donors.png" width="200"> | <img src="Map.png" width="200"> | <img src="Hospital.png" width="200"> |
+
+| User Profile | Request Portal | Donate Blood  |
+| :---: | :---: | :---: |
+| <img src="Profile.png" width="200"> | <img src="Request.png" width="200"> | <img src="Donate Blood.png" width="200"> |
+
+| Request Blood | Donation Info | About Us |
+| :---: | :---: | :---: |
+| <img src="Request blood.png" width="200"> | <img src="Donation.png" width="200"> | <img src="About Us.png" width="200"> |
+
+
+
+
+---
+
 ## ⚡ Setup Instructions
 
 To run this project locally:
