@@ -61,3 +61,10 @@ To run this project locally:
    * Get your **Infura RPC URL**, **contract address**, and **ABI**, and add them to your Java Web3 integration.
 
 5. **Run the app** on an emulator or physical Android device.
+
+## 📲 Download & Install
+To use the Smart Blood Bank app on your Android device, download the latest version below:
+
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/FaizanSayed404/EBlood_Bank_App/releases/latest/download/app-release.apk)
+
+> **Note:** Since this is a direct installation, you may need to allow "Install from Unknown Sources" in your phone settings.
